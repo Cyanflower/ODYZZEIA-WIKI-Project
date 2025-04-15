@@ -2,7 +2,7 @@
 title: 立绘差分与游戏界面-制作自己的酒馆Galgame的立绘插图！
 description: 非常简单的喵
 published: true
-date: 2025-04-05T07:27:37.583Z
+date: 2025-04-15T06:34:14.225Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-04T04:38:34.069Z
@@ -157,7 +157,7 @@ solo,(upper body),cowboy shot,standing,((green background)),((green screen)),sim
 ```
 > 如果你使用的模型或画风有着身体反射绿幕的绿光问题，可以尝试将green换成grey
 
-上方的是我的画风串！最下方是生成立绘所使用的提示词！
+上方一行`flat color...`是我的画风串！最下方一行`solo...`是生成立绘所使用的提示词！
 
 #### 负向
 
