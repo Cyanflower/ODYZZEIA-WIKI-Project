@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2025-05-22T08:01:36.553Z
+date: 2025-05-22T08:01:46.058Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-08T11:27:47.400Z
@@ -48,7 +48,7 @@ dateCreated: 2025-02-08T11:27:47.400Z
 
 <blockquote class="is-danger">
   
-  <b>智识库无意参与类脑/旅程的争端之中。目前，智识库面向所有热衷于 AIRP 社区的创作者接纳投稿</b>
+  <b>智识库无意参与类脑/旅程的争端之中。目前，智识库面向所有热衷于 AIRP 社区的、善意的创作者接纳投稿</b>
 	</blockquote>
   
 <blockquote class="is-info">
