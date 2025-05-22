@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2025-03-15T13:13:36.048Z
+date: 2025-05-22T08:01:36.553Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-08T11:27:47.400Z
@@ -46,6 +46,11 @@ dateCreated: 2025-02-08T11:27:47.400Z
  
 ---
 
+<blockquote class="is-danger">
+  
+  <b>智识库无意参与类脑/旅程的争端之中。目前，智识库面向所有热衷于 AIRP 社区的创作者接纳投稿</b>
+	</blockquote>
+  
 <blockquote class="is-info">
   
   <b>由于智识库流量过大，目前仅创作者可实时看到内容变更，游客需等待缓存过期(约2小时)后才可获得页面最新内容</b>
