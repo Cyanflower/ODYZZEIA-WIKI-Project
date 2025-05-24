@@ -2,7 +2,7 @@
 title: 酒馆使用
 description: 目录
 published: true
-date: 2025-04-04T04:47:02.615Z
+date: 2025-05-24T06:24:46.880Z
 tags: 酒馆使用, 目录
 editor: markdown
 dateCreated: 2025-02-12T06:23:55.235Z
@@ -100,6 +100,14 @@ dateCreated: 2025-02-12T06:23:55.235Z
   <li>
     <a href="/智识库/类脑教程/酒馆使用/立绘差分与游戏界面-制作自己的酒馆Galgame的立绘插图！" class="is-internal-link is-valid-page">酒馆使用
       <em>立绘差分与游戏界面-制作自己的酒馆Galgame的立绘插图！</em>
+    </a>
+  </li>
+</ul>
+
+<ul class="links-list">
+  <li>
+    <a href="/智识库/sandbox/Y゙゙゙/酒馆角色卡，聊天，扩展数据的备份与恢复" class="is-internal-link is-valid-page">酒馆使用
+      <em>酒馆角色卡、聊天和扩展数据的备份与恢复</em>
     </a>
   </li>
 </ul>
