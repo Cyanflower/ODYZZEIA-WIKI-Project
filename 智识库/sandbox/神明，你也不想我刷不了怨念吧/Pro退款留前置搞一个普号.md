@@ -2,7 +2,7 @@
 title: Pro退款流前置
 description: 搞一个可以充值普号
 published: false
-date: 2025-06-06T03:40:53.943Z
+date: 2025-06-06T03:49:34.996Z
 tags: 获取ai渠道
 editor: markdown
 dateCreated: 2025-06-06T03:00:21.004Z
@@ -26,3 +26,6 @@ dateCreated: 2025-06-06T03:00:21.004Z
 
 国内的手机号a社肯定是不接受的，所以需要虚拟号平台
 [5Sim]https://5sim.net/zh
+我用的最多的就是这个平台，其他的自行搜索
+（如果有一天这个网站转为美金结算了,那网站就是完蛋了，快跑）
+
