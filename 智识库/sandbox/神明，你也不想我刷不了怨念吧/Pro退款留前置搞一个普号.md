@@ -2,7 +2,7 @@
 title: Pro退款流前置
 description: 搞一个可以充值普号
 published: false
-date: 2025-06-06T03:52:44.474Z
+date: 2025-06-07T02:20:46.634Z
 tags: 获取ai渠道
 editor: markdown
 dateCreated: 2025-06-06T03:00:21.004Z
@@ -25,7 +25,21 @@ dateCreated: 2025-06-06T03:00:21.004Z
 到了验证手机号环节
 
 国内的手机号a社肯定是不接受的，所以需要虚拟号平台
-[5Sim]https://5sim.net/zh
+[5Sim]https://5sim.net/
 我用的最多的就是这个平台，其他的自行搜索
 （如果有一天这个网站转为美金结算了,那网站就是完蛋了，快跑）
+点进去注册
+
+注册完成后
+![claudepro2.jpg](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro2.jpg)
+# 点1进入2的支付页面，选择支付宝
+![claudepro3.jpg](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro3.jpg)
+应付金额填入你想充的数值（单位美元）
+这个1是1美元，也就是7块多人民币
+
+
+# 充值完成后就要去寻找服务>选择国家>接码
+![claudepro4.jpg](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro4.jpg)
+选择服务里输入claudeai>选择国家里选择和你梯子一样的地区>选择接码率最高或者价格最低都行
+
 
