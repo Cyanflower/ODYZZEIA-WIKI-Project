@@ -2,7 +2,7 @@
 title: Pro退款流前置
 description: 搞一个可以充值普号
 published: false
-date: 2025-06-09T01:35:32.820Z
+date: 2025-06-09T02:05:43.885Z
 tags: 获取ai渠道
 editor: markdown
 dateCreated: 2025-06-06T03:00:21.004Z
@@ -42,6 +42,11 @@ dateCreated: 2025-06-06T03:00:21.004Z
 ![claudepro4.jpg](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro4.jpg)
 选择服务里输入claudeai>选择国家里选择和你梯子一样的地区>选择接码率最高或者价格最低都行
 
-![claudepro6.jpg](/all_upload_files_should_in_here/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro6.jpg)
+![claudepro6.jpg](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro6.jpg)
+![claudepro7.png](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro7.png)
 
+一般来说验不通过就代表你这个邮箱被a社封禁了不要再试了换个邮箱
+![claudepro8.jpg](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro8.jpg)
 
+那地方就是虚拟手机号记得在小客官网或者app调成对应的国家前缀
+然后发送验证就行了
