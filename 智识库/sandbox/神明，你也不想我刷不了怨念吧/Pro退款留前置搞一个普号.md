@@ -2,14 +2,14 @@
 title: Pro退款流前置
 description: 搞一个可以充值普号
 published: false
-date: 2025-06-09T01:14:02.206Z
+date: 2025-06-09T01:35:32.820Z
 tags: 获取ai渠道
 editor: markdown
 dateCreated: 2025-06-06T03:00:21.004Z
 ---
 
 # Pro退款流前置整一个A社谱号
-> 教程作者：络络+未知用户10086
+> 教程作者：未知用户10086
 
 首先你得有一个节点还算纯净的魔法开全局（住宅流量更好，但贵）
 其次你需要有一个邮箱（刚注册的很容易被秒封，建议静置一两天或者三四天）
@@ -42,6 +42,6 @@ dateCreated: 2025-06-06T03:00:21.004Z
 ![claudepro4.jpg](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro4.jpg)
 选择服务里输入claudeai>选择国家里选择和你梯子一样的地区>选择接码率最高或者价格最低都行
 
-
+![claudepro6.jpg](/all_upload_files_should_in_here/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro6.jpg)
 
 
