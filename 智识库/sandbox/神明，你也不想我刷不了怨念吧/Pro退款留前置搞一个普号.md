@@ -2,7 +2,7 @@
 title: Pro退款流前置
 description: 搞一个可以充值普号
 published: true
-date: 2025-06-09T02:08:22.262Z
+date: 2025-06-09T02:08:59.867Z
 tags: 获取ai渠道
 editor: markdown
 dateCreated: 2025-06-06T03:00:21.004Z
@@ -48,5 +48,5 @@ dateCreated: 2025-06-06T03:00:21.004Z
 一般来说验不通过就代表你这个邮箱被a社封禁了不要再试了换个邮箱
 ![claudepro8.jpg](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro8.jpg)
 
-那地方就是虚拟手机号记得在小客官网或者app调成对应的国家前缀
+那地方就是虚拟手机号记得在小克官网或者app调成对应的国家前缀
 然后发送验证就行了
