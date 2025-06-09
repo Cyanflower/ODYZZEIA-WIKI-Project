@@ -2,7 +2,7 @@
 title: Pro退款流前置
 description: 搞一个可以充值普号
 published: true
-date: 2025-06-09T02:10:38.694Z
+date: 2025-06-09T02:14:21.587Z
 tags: 获取ai渠道
 editor: markdown
 dateCreated: 2025-06-06T03:00:21.004Z
@@ -49,4 +49,7 @@ dateCreated: 2025-06-06T03:00:21.004Z
 ![claudepro8.jpg](/all_upload_files_should_in_here/sandbox_area/claudepro/claudepro8.jpg)
 
 那地方就是虚拟手机号记得在小克官网或者app调成对应的国家前缀
-然后发送验证就行了
+然后发送验证就行
+# 注意事项
+如果发了一次验证码，2分钟内没接到点禁止或取消钱会退给你
+总之只两分钟内没接到码的虚拟手机号，直接点禁止或取消购买新的手机号，换号重来
