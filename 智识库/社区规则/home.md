@@ -2,11 +2,16 @@
 title: 社区规则
 description: 
 published: true
-date: 2025-02-12T01:14:52.789Z
+date: 2025-06-10T14:29:43.289Z
 tags: 社区规则, 议会
 editor: markdown
 dateCreated: 2025-02-11T16:43:04.222Z
 ---
+
+
+> **自 2025/05/20 后，受 5·20 事件影响，本页面信息已处于失效状态。**
+{.is-danger}
+
 
 # 基本约法
 
