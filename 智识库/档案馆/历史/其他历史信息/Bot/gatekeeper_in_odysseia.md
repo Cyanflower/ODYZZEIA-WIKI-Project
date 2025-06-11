@@ -2,7 +2,7 @@
 title: Gatekeeper in Odysseia
 description: 由 Durvis 主导开发的Discord Bot
 published: true
-date: 2025-06-11T05:13:04.626Z
+date: 2025-06-11T05:13:09.390Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-11T04:43:36.851Z
@@ -60,7 +60,7 @@ Gatekeeper in Odysseia(又称：Gatekeeper in Horizon) 是由 [Durvis](/智识�
 
 ## 其他信息
 
-值得一提的是，Gatekeeper in Odysseia 在 Github 上的公开和私有仓库，以及 Github 组织 [ODYZZEIA-Discord-bot](https://github.com/ODYZZEIA-Discord-bot) 的头像均为：
+Gatekeeper in Odysseia 在 Github 上的公开和私有仓库，以及 Github 组织 [ODYZZEIA-Discord-bot](https://github.com/ODYZZEIA-Discord-bot) 的头像均为：
 
 ![gatekeeper-github-icon.png](/all_upload_files_should_in_here/archives/history/other_historical_info/bot/gatekeeper_in_odysseia/gatekeeper-github-icon.png)
 
